@@ -3,7 +3,7 @@
 # Zakatify Gold App UI Design
 
 <p>
-  A clean and modern mobile interface for calculating estimated gold zakat payment.
+  Below are the screenshot UI design of Zakatify Gold App
 </p>
 
 <hr width="70%">

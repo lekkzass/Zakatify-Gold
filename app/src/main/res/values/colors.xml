@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+
+    <color name="primary_brown">#5D4037</color>
+    <color name="primary_brown_dark">#3E2723</color>
+    <color name="gold">#D4AF37</color>
+
+    <color name="app_background">#FFF8E1</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="instruction_background">#FFECB3</color>
+    <color name="notice_background">#FFF3CD</color>
+
+    <color name="text_primary">#3E2723</color>
+    <color name="text_secondary">#6D4C41</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="hint_text">#9E9E9E</color>
+
+    <color name="button_primary">#5D4037</color>
+    <color name="button_secondary">#8D6E63</color>
+    <color name="button_reset">#BCAAA4</color>
+
+    <color name="zakat_highlight">#BF360C</color>
+
+</resources>

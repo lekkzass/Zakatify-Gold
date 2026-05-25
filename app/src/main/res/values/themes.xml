@@ -1,0 +1,26 @@
+<resources>
+
+    <style name="Theme.ZakatifyGold" parent="Theme.AppCompat.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/primary_brown</item>
+        <item name="colorPrimaryDark">@color/primary_brown_dark</item>
+        <item name="colorAccent">@color/gold</item>
+
+        <item name="android:windowBackground">@color/app_background</item>
+        <item name="android:statusBarColor">@color/primary_brown_dark</item>
+        <item name="android:navigationBarColor">@color/primary_brown_dark</item>
+    </style>
+
+    <style name="ToolbarStyle" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:textColorPrimary">@color/text_white</item>
+        <item name="android:textColorSecondary">@color/gold</item>
+        <item name="colorControlNormal">@color/gold</item>
+    </style>
+
+    <style name="ToolbarPopupStyle" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        <item name="android:popupBackground">@color/card_background</item>
+    </style>
+
+</resources>

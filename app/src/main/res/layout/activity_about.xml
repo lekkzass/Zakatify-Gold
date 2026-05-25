@@ -42,10 +42,10 @@
             android:src="@drawable/zakatify" />
 
         <TextView
-            android:id="@+id/tvAboutAppName"
+            android:id="@+id/tvAppName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="About Page"
+            android:text="Zakatify Gold"
             android:textAlignment="center"
             android:textColor="@color/text_primary"
             android:textSize="23sp"

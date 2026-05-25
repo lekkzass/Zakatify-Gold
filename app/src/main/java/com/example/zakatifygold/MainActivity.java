@@ -208,7 +208,7 @@ public class MainActivity extends AppCompatActivity {
             sendIntent.putExtra(Intent.EXTRA_SUBJECT, "Zakatify Gold App");
             sendIntent.putExtra(
                     Intent.EXTRA_TEXT,
-                    "Yo! Check out Zakatify Gold app: https://github.com/lekkzass"
+                    "Yo! Check out Zakatify Gold app: https://github.com/lekkzass/Zakatify-Gold"
             );
 
             Intent shareIntent = Intent.createChooser(sendIntent, null);

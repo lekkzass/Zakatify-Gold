@@ -92,12 +92,12 @@ public class MainActivity extends AppCompatActivity {
                     goldValue = Double.parseDouble(etGoldValue.getText().toString());
 
                     if (goldWeight <= 0) {
-                        Toast.makeText(getApplicationContext(), "Gold weight must be more than 0", Toast.LENGTH_SHORT).show();
+                        etGoldWeight.setError("Gold weight must be greater than 0");
                         return;
                     }
 
                     if (goldValue <= 0) {
-                        Toast.makeText(getApplicationContext(), "Gold value must be more than 0", Toast.LENGTH_SHORT).show();
+                        etGoldValue.setError("Gold value must be greater than 0");
                         return;
                     }
 
